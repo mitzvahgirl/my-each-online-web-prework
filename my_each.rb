@@ -8,4 +8,4 @@ def my_each(array)
   end
 end
 
-words
+my_each(words)
