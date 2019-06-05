@@ -8,7 +8,7 @@ def my_each(array)
   end
 end
 
-my_each(words) {|i| puts "So I think #{i} is a piece of shit"}
+my_each(words) {|i| puts "Which greeting do you prefer, #{i}"}
 
 def hello(array)
   i = 0
